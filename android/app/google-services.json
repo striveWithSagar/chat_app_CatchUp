@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "370922849602",
+    "project_id": "catchup-dd515",
+    "storage_bucket": "catchup-dd515.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370922849602:android:5f3e622d9d06644c5a74db",
+        "android_client_info": {
+          "package_name": "com.catchup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370922849602-212lmh20on9k9gn6hvf0urj8ptu20o87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catchup.app",
+            "certificate_hash": "91e8a203a343766915bbcd66d156908d8eb976e1"
+          }
+        },
+        {
+          "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQUthsIemeYUoyj9F1qO_40wxRLXBM-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370922849602-sv40rvs1phjemu9lj7jh2uq1hft6b91h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.catchup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370922849602:android:f4fb8b8629cf3e6d5a74db",
+        "android_client_info": {
+          "package_name": "com.example.catchup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370922849602-2uiomlkkn04i102gqv6gj36siqu0n0jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catchup",
+            "certificate_hash": "91e8a203a343766915bbcd66d156908d8eb976e1"
+          }
+        },
+        {
+          "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQUthsIemeYUoyj9F1qO_40wxRLXBM-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370922849602-sv40rvs1phjemu9lj7jh2uq1hft6b91h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.catchup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370922849602:android:85fee6e2c620c3135a74db",
+        "android_client_info": {
+          "package_name": "com.sagar.catchup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370922849602-uoqqpo03cjpn49f8icgd0a1ft6tttrge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sagar.catchup",
+            "certificate_hash": "91e8a203a343766915bbcd66d156908d8eb976e1"
+          }
+        },
+        {
+          "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQUthsIemeYUoyj9F1qO_40wxRLXBM-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370922849602-lnfqmqu5h4f1rurmsup08cotokvf8plh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370922849602-sv40rvs1phjemu9lj7jh2uq1hft6b91h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.catchup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
